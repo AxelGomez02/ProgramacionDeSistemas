@@ -1,0 +1,6 @@
+#indef FOO_H__
+#define FOO_H__
+
+void();
+
+#endif

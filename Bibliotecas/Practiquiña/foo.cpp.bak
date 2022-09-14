@@ -1,0 +1,6 @@
+#include "foo.h"
+#include <iostream>
+
+void(){
+	std::cout <<  "Hola mi nombre es Axel." << "\n";
+}
