@@ -34,4 +34,4 @@ Durante la ejecucion de nuestro programa, en el momento que se necesiten los rec
 - Un cambio en una biblioteca estatica no afecta al programa. Un cambio en una biblioteca dinamica si afecta al programa     
 ![image](https://user-images.githubusercontent.com/113264761/190874760-a014040d-f78c-4988-b514-5bec7695b593.png)   
 ### Adjunto evidencia de la practica que hicimos 
-![imagen ensamblador](https://github.com/AxelGomez02/ProgramacionDeSistemas/blob/main/Imagenes/ensamblador.png)
+![imagen ensamblador](https://github.com/AxelGomez02/ProgramacionDeSistemas/blob/main/Imagenes/bibliotecas.png)
